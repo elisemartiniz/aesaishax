@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fooxoosuoy.webantix.net/sitemap.xml
